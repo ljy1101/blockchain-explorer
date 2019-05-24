@@ -1,7 +1,7 @@
 /**
  * SPDX-License-Identifier: Apache-2.0
  */
-const PgService = require('./PgService');
+const PgService = require('./pgservice');
 
 /**
  *
